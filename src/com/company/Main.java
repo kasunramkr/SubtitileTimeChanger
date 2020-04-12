@@ -12,7 +12,6 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-        // write your code here
         String inputPath = "";
         String outputPath = "";
         int sec = (60*0)+8;
